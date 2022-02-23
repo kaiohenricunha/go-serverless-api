@@ -9,7 +9,7 @@
 
 - TODO:
 
-    1) Configure git. How to handle multiple Github accounts in the same machine?
+    1) Configure git. How to handle multiple Github accounts in the same machine? - DONE
 
     2) Terraform will not have access to AWS api. Export secret and access keys that you get from AWS after the user with programmatic access is created:
 
