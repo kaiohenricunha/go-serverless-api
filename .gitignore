@@ -23,4 +23,9 @@ terraform.rc
 *.out
 go.work
 
-# 
+**/main
+**/main.zip
+
+.DS_Store
+**/*.swp
+**/*.swo
